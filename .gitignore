@@ -43,6 +43,7 @@ Thumbs.db
 *.class
 *.dll
 *.exe
+*.suo
 *.o
 *.so
 *.pdb
