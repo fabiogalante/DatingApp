@@ -33,6 +33,7 @@ namespace DatingApp.API.Controllers
             //if(!ModelState.IsValid)
               //  return BadRequest(ModelState);
               //Com o atributo ApiController nao precisa validar e nem o FromBody
+            
 
             userForRegisterDto.Username = userForRegisterDto.Username.ToLower();
 
